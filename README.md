@@ -13,3 +13,10 @@ Citi Bike data can provide valuable insights for entrepreneurs considering start
 
 
 [Link to full dashboard](https://public.tableau.com/app/profile/harry.mecouch/viz/CitiBikeDataVisualizations_16751879224100/Story1)
+
+
+### Here are some visualizations of Citi Bike usage generated using the data from August of 2019
+
+
+*The line graph shows that almost all users checkout a bike for less than an hour
+<img width="719" alt="checkout_times" src="https://user-images.githubusercontent.com/114922260/216103370-c91c0c27-d315-4ff7-9982-4f278d1cf564.png">
