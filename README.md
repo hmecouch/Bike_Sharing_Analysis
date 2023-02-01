@@ -18,5 +18,24 @@ Citi Bike data can provide valuable insights for entrepreneurs considering start
 ### Here are some visualizations of Citi Bike usage generated using the data from August of 2019
 
 
-*The line graph shows that almost all users checkout a bike for less than an hour
+- Almost all users checkout a bike for less than an hour
 <img width="719" alt="checkout_times" src="https://user-images.githubusercontent.com/114922260/216103370-c91c0c27-d315-4ff7-9982-4f278d1cf564.png">
+
+- All genders have similar checkout times
+<img width="719" alt="checkout_times_gender" src="https://user-images.githubusercontent.com/114922260/216104285-2d0162d3-2e91-4032-bcaf-4bcecaa3bb0d.png">
+
+- During the work week the busiest time intervals are 7am-9am and 4pm-7pm but during the weekend the busiest interval is 9am-7pm.
+<img width="718" alt="Trips_by_weekday" src="https://user-images.githubusercontent.com/114922260/216105260-aac8d62e-14a0-485c-961d-089f67a8d82d.png">
+
+- Males and females both use the bikes during the same hours of the day
+<img width="719" alt="Trips_by_gender_weekday_per_hr" src="https://user-images.githubusercontent.com/114922260/216105891-4bd28381-0b81-4023-9ab0-b8dbe23e8605.png">
+
+- Thursdays and Fridays see the highest usage rates
+<img width="719" alt="trips_by_gender_weekday" src="https://user-images.githubusercontent.com/114922260/216106186-044052a5-4075-4bd1-a3c1-207645af39ef.png">
+
+- There are almost three times more male customers than female
+<img width="737" alt="Gender" src="https://user-images.githubusercontent.com/114922260/216106880-49b402d2-9438-4973-8b28-50ec7085d6f1.png">
+
+- 
+
+
