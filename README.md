@@ -12,4 +12,4 @@ Citi Bike data can provide valuable insights for entrepreneurs considering start
 ## Results
 
 
-Link to full visualization story [https://public.tableau.com/app/profile/harry.mecouch/viz/CitiBikeDataVisualizations_16751879224100/Story1]
+[Link to full dashboard](https://public.tableau.com/app/profile/harry.mecouch/viz/CitiBikeDataVisualizations_16751879224100/Story1)
